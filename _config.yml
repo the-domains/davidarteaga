@@ -1,0 +1,28 @@
+name: davidarteaga
+favicon: null
+layout_spectrum: 0.4986510460730642
+typography_spectrum: 0.5370386617723852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.84363251645118
+  lightness: 0.7593081530649215
+  saturation: 0.5528410277329385
+  rhythmicContrast: 0.6603743452578783
+purpose: []
