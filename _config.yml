@@ -1,7 +1,7 @@
 name: davidarteaga
 favicon: null
-layout_spectrum: 0.2494
-typography_spectrum: 0.10376
+layout_spectrum: 0
+typography_spectrum: 0.41025
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#342a21'
     - '#818274'
     - '#4e473f'
-  brandStrength: 0.75
-  lightness: 0.4375
-  saturation: 0.625
-  rhythmicContrast: 0.25
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
