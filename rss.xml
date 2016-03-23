@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[davidarteaga]]></title>
+        <description><![CDATA[davidarteaga]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 06:22:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[David Arteaga]]></title>
+            <description><![CDATA[<article><h1>David Arteaga</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa9ae53-02c3-46b8-b7c8-bbd354b01d29.jpg"></article>]]></description>
+            <link>undefineddavid-arteaga/index.html</link>
+            <guid isPermaLink="false">69e58993-1944-4423-9c41-ffcc66515981</guid>
+            <pubDate>Wed, 23 Mar 2016 06:22:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
